@@ -1,4 +1,4 @@
 (ns pingla.main)
 
 (defn ^:export start []
-  (js/alert "Hei fra cljs"))
+  (js/alert "Hei fra cljs!"))
