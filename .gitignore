@@ -1,1 +1,7 @@
 .pio
+cljs/out
+cljs/.cpcache
+data/www/*
+.vscode
+.clj-kondo
+.lsp
